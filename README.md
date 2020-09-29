@@ -1,6 +1,4 @@
 # Neural Network Adaptive PID Controller
-Official code of Artificial Neural Network-Based Adaptive PID Controller Design for Vertical Takeoff and Landing Model, which is presented in European Journal of Science and Technology.
-# Citation
 If you use this code, please cite with:
 ```
 @research article { ejosat779085,
