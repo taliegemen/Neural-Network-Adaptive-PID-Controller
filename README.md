@@ -14,4 +14,4 @@ If you use this code, please cite with:
 ```
 
 You may also want to look at this repo to train an ANN that can be used with this code:
-[ANN Traninig on Matlab](https://github.com/alkimgokcen/Artificial-Neural-Network-Traning-on-MATLAB)https://github.com/alkimgokcen/Artificial-Neural-Network-Traning-on-MATLAB
+[ANN Traninig on Matlab](https://github.com/alkimgokcen/Artificial-Neural-Network-Traning-on-MATLAB)
