@@ -12,3 +12,6 @@ If you use this code, please cite with:
 	author = {Taşören,  Ali Egemen and Gökçen,  Alkım and Soydemi̇r,  Mehmet Uğur and Şahi̇n,  Savaş}
 }
 ```
+
+You may also want to look at this repo to train an ANN that can be used with this code:
+[/Users/taliegemen/Library/Application Support/Ryujinx/system/Profiles.json](https://github.com/alkimgokcen/Artificial-Neural-Network-Traning-on-MATLAB)https://github.com/alkimgokcen/Artificial-Neural-Network-Traning-on-MATLAB
